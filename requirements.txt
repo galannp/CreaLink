@@ -11,6 +11,7 @@ django-cors-headers==2.4.0
 django-crispy-forms==1.7.2
 django-emoticons==1.2
 django-filter==2.0.0
+django-recaptcha==3.0.0
 django-widget-tweaks==1.4.3
 djangorestframework==3.8.2
 djangorestframework-jwt==1.11.0
